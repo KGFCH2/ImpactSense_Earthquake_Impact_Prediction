@@ -39,7 +39,7 @@ By the end of this project, you will:
 ---
 
 ## 🏗 System Architecture  
-📌 ![System Architecture](Image/system_architecture.png)  
+![System Architecture](Image/system_architecture.png)  
 
 ---
 
